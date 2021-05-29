@@ -111,6 +111,21 @@ body {
     text-align: center;
 }
  
+@media (min-width: 576px) {
+  .stats-group {
+      display: flex; justify-content: center
+	}
+	
+  .stat {
+       margin-right: 6.3rem; margin-bottom: 0;
+	}
+	
+  .stat:last-child {
+	margin-right: 0;
+	}
+  
+}
+
  @media (min-width: 768px) {
   .preview-card {
 	display: flex;
@@ -139,15 +154,6 @@ body {
 
  .stats-group {
 	display: flex;
-}
-
- .stat {
-	margin-right: 6.3rem;
-	margin-bottom: 0;
-}
-
- .stat:last-child {
-	margin-right: 0;
 }
 
  .stat-header {
