@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
 - Live Site URL: https://kimberlyannthomas.github.io/frontend-mentor-coding-challenges/stats-preview-card-component/
+- View My Solutions To Other Coding Projects: https://www.frontendmentor.io/profile/kimberlyannthomas
 
 ## My process
 
