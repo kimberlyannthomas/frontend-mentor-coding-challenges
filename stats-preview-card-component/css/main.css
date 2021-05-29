@@ -15,11 +15,11 @@ body {
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-	overflow: hidden;
 }
 
 .preview-card-wrapper {
-	margin: 2rem;
+	margin: 2rem 2rem 10.0rem 2rem;
+	overflow: hidden;
 }
 
 .preview-card {
@@ -102,12 +102,10 @@ body {
 }
 
 .attribution{
-    position: absolute;
+    position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
-    transform: translateY(0);
-    transition: .4s;
     padding: 20px 0;
     background: white;
     text-align: center;
