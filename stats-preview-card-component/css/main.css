@@ -113,8 +113,9 @@ body {
  
 @media (min-width: 576px) {
   .stats-group {
-      display: flex; justify-content: center
-	}
+      display: flex; 
+      justify-content: center;
+ }
 	
   .stat {
        margin-right: 6.3rem; margin-bottom: 0;
@@ -153,7 +154,7 @@ body {
 }
 
  .stats-group {
-	display: flex;
+	justify-content: flex-start;
 }
 
  .stat-header {
