@@ -30,6 +30,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: https://kimberlyannthomas.github.io/frontend-mentor-coding-challenges/stats-preview-card-component/
+- Solution URL: https://www.frontendmentor.io/solutions/stats-preview-card-component-flexbox-and-responsive-images-1ZehXJ-kg
 
 ## My process
 
